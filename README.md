@@ -17,6 +17,9 @@ This app has:
 Clone repository in your IDE (such as [VisualStudioCode](https://code.visualstudio.com/)) 
 and run locally using live server.
 
-*If you encounter issues on VisualStudioCode you might need to install some extensions for live server.
+Or view [here](https://counter-project-39f47.firebaseapp.com/).
+
+
+*If you encounter issues on VisualStudioCode you might need to install the extension for live server.
   
   
