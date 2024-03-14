@@ -19,7 +19,7 @@ btn_set2 = document.createElement("div");
 btn_set2.style=" display: flex;align-items: center;gap: 5px;";
 buttons.appendChild(btn_set2);
 
-// subtract buttons
+// subtract button
 subtractButton = document.createElement("button");
 subtractButton.id="subtract";
 subtractButton.innerHTML="-1";
