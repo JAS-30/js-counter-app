@@ -78,7 +78,6 @@ function display(){
 //every time the (+) or (-) button is clicked display the variation on screen (float numbers can be used as well)
 function add (){
     addButton.addEventListener("click", () => {
-        console.log("click");
          counter.value += Number(addButton.value);
          counter.value = Math.round(counter.value * 100) / 100;
          
